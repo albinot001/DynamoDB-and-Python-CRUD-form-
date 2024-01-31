@@ -19,8 +19,9 @@ This project is a school project demonstrating the use of AWS DynamoDB with a Py
 
 Install dependencies:
 
-pip install -r requirements.txt
-pip install boto3
+   ```bash
+   pip install -r requirements.txt
+   pip install boto3
 
 Replace the placeholder values in the index.py file with your AWS credentials and DynamoDB table name.
 
