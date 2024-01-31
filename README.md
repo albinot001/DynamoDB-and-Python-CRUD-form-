@@ -13,10 +13,10 @@ This project is a school project demonstrating the use of AWS DynamoDB with a Py
 
 1. Clone the repository:
 
-   ```bash
-   https://github.com/albinot001/DynamoDB-and-Python-CRUD-form-.git
-   cd DynamoDB-and-Python-CRUD-form
-   ```
+```bash
+https://github.com/albinot001/DynamoDB-and-Python-CRUD-form-.git
+cd DynamoDB-and-Python-CRUD-form
+```
 
 Install dependencies:
 
