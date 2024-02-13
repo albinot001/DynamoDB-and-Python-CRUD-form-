@@ -64,7 +64,7 @@ def update_user():
     existing_item = items[0]
 
     update_customer_name = input("Do you want to update customer name? (yes/no): ")
-    new_customer_name = input("Enter the new customer name: ") if update_customer_name.lower() == 'yes' else existing_item['customer_id']
+    new_customer_name = input("Enter the new customer name: ") if update_customer_name.lower() == 'yes' else existing_item['customer_name']
 
     update_order_id = input("Do you want to update order_id? (yes/no): ")
     new_order_id = input("Enter the new order_id: ") if update_order_id.lower() == 'yes' else existing_item['order_id']
